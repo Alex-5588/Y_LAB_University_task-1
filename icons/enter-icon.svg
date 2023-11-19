@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="110.395px" height="122.88px" viewBox="0 0 110.395 122.88" enable-background="new 0 0 110.395 122.88" xml:space="preserve" fill="url(#lgrad)">
+   <linearGradient id="lgrad" x1="2%" y1="0%" x2="98%" y2="100%" >
+    
+          <stop offset="50%" style="stop-color:rgb(238,130,238);stop-opacity:1.00" />
+          <stop offset="100%" style="stop-color:rgb(0,0,255);stop-opacity:1.00" />
+
+    </linearGradient>
+<g><path fill-rule="evenodd" clip-rule="evenodd" d="M0,79.239v-34.54h35.025V13.631l47.004,48.305L35.025,110.31v-31.07H0L0,79.239z M93.359,17.16L75.68,9.377L75.99,0h34.404v61.439v61.44H75.99l-0.311-6.835l17.68-10.946V17.16L93.359,17.16z"/></g></svg>
